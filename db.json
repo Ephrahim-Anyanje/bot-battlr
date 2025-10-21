@@ -1,0 +1,154 @@
+{
+  "bots": [
+    {
+      "id": 1,
+      "name": "Optimus Prime",
+      "health": 150,
+      "damage": 30,
+      "armor": 50,
+      "bot_class": "Support",
+      "catchphrase": "Freedom is the right of all sentient beings.",
+      "avatar_url": "https://robohash.org/optimus.png"
+    },
+    {
+      "id": 2,
+      "name": "Bumblebee",
+      "health": 120,
+      "damage": 25,
+      "armor": 30,
+      "bot_class": "Assault",
+      "catchphrase": "Bee yourself!",
+      "avatar_url": "https://robohash.org/bumblebee.png"
+    },
+    {
+      "id": 3,
+      "name": "Megatron",
+      "health": 180,
+      "damage": 40,
+      "armor": 60,
+      "bot_class": "Tank",
+      "catchphrase": "Peace through tyranny.",
+      "avatar_url": "https://robohash.org/megatron.png"
+    },
+    {
+      "id": 4,
+      "name": "R2-D2",
+      "health": 90,
+      "damage": 10,
+      "armor": 15,
+      "bot_class": "Support",
+      "catchphrase": "Beep beep boop!",
+      "avatar_url": "https://robohash.org/r2d2.png"
+    },
+    {
+      "id": 5,
+      "name": "C-3PO",
+      "health": 100,
+      "damage": 5,
+      "armor": 10,
+      "bot_class": "Medic",
+      "catchphrase": "I am fluent in over six million forms of communication.",
+      "avatar_url": "https://robohash.org/c3po.png"
+    },
+    {
+      "id": 6,
+      "name": "T-800",
+      "health": 200,
+      "damage": 45,
+      "armor": 70,
+      "bot_class": "Tank",
+      "catchphrase": "I'll be back.",
+      "avatar_url": "https://robohash.org/terminator.png"
+    },
+    {
+      "id": 7,
+      "name": "Wall-E",
+      "health": 80,
+      "damage": 8,
+      "armor": 10,
+      "bot_class": "Support",
+      "catchphrase": "Eee-va!",
+      "avatar_url": "https://robohash.org/walle.png"
+    },
+    {
+      "id": 8,
+      "name": "Baymax",
+      "health": 160,
+      "damage": 20,
+      "armor": 40,
+      "bot_class": "Medic",
+      "catchphrase": "Are you satisfied with your care?",
+      "avatar_url": "https://robohash.org/baymax.png"
+    },
+    {
+      "id": 9,
+      "name": "Ultron",
+      "health": 170,
+      "damage": 38,
+      "armor": 55,
+      "bot_class": "Assault",
+      "catchphrase": "I had strings, but now I'm free.",
+      "avatar_url": "https://robohash.org/ultron.png"
+    },
+    {
+      "id": 10,
+      "name": "Bastion",
+      "health": 130,
+      "damage": 35,
+      "armor": 45,
+      "bot_class": "Assault",
+      "catchphrase": "Dwee doo woo.",
+      "avatar_url": "https://robohash.org/bastion.png"
+    },
+    {
+      "id": 11,
+      "name": "Clank",
+      "health": 110,
+      "damage": 20,
+      "armor": 25,
+      "bot_class": "Support",
+      "catchphrase": "I detect danger ahead.",
+      "avatar_url": "https://robohash.org/clank.png"
+    },
+    {
+      "id": 12,
+      "name": "Iron Giant",
+      "health": 220,
+      "damage": 50,
+      "armor": 80,
+      "bot_class": "Tank",
+      "catchphrase": "I am not a gun.",
+      "avatar_url": "https://robohash.org/irongiant.png"
+    },
+    {
+      "id": 13,
+      "name": "RoboCop",
+      "health": 190,
+      "damage": 42,
+      "armor": 65,
+      "bot_class": "Defender",
+      "catchphrase": "Dead or alive, you're coming with me.",
+      "avatar_url": "https://robohash.org/robocop.png"
+    },
+    {
+      "id": 14,
+      "name": "EVE",
+      "health": 95,
+      "damage": 22,
+      "armor": 20,
+      "bot_class": "Scout",
+      "catchphrase": "Directive?",
+      "avatar_url": "https://robohash.org/eve.png"
+    },
+    {
+      "id": 15,
+      "name": "Johnny 5",
+      "health": 85,
+      "damage": 15,
+      "armor": 12,
+      "bot_class": "Support",
+      "catchphrase": "No disassemble!",
+      "avatar_url": "https://robohash.org/johnny5.png"
+    }
+  ]
+}

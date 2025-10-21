@@ -1,0 +1,70 @@
+body {
+  background-color: #0d1117;
+  color: #e6edf3;
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  text-align: center;
+  padding: 2rem 0;
+  background: linear-gradient(90deg, #0057ff, #6a00ff);
+  color: white;
+  border-bottom: 3px solid #222;
+}
+
+.bot-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 1.2rem;
+  padding: 1.5rem;
+}
+
+.bot-card {
+  background: #161b22;
+  border: 1px solid #30363d;
+  border-radius: 15px;
+  padding: 1rem;
+  text-align: center;
+  transition: transform 0.2s, border-color 0.3s;
+  cursor: pointer;
+}
+
+.bot-card:hover {
+  transform: translateY(-4px);
+  border-color: #6a00ff;
+}
+
+.bot-card img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.bot-actions {
+  margin-top: 0.5rem;
+  display: flex;
+  justify-content: space-around;
+}
+
+button {
+  background-color: #0057ff;
+  border: none;
+  color: white;
+  padding: 0.4rem 0.8rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: #6a00ff;
+}
+
+button.danger {
+  background-color: #e63946;
+}
+
+button.danger:hover {
+  background-color: #ff4757;
+}

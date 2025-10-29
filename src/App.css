@@ -1,6 +1,6 @@
 body {
-  background-color: #0d1117;
-  color: #e6edf3;
+  background-color: #2b1a14;
+  color: #fff3e0;
   font-family: "Poppins", sans-serif;
   margin: 0;
   padding: 0;
@@ -9,9 +9,9 @@ body {
 .header {
   text-align: center;
   padding: 2rem 0;
-  background: linear-gradient(90deg, #0057ff, #6a00ff);
+  background: linear-gradient(90deg, #ff7e00, #ff3d00);
   color: white;
-  border-bottom: 3px solid #222;
+  border-bottom: 3px solid #5a2a00;
 }
 
 .bot-list {
@@ -22,8 +22,8 @@ body {
 }
 
 .bot-card {
-  background: #161b22;
-  border: 1px solid #30363d;
+  background: #3a231c;
+  border: 1px solid #70412a;
   border-radius: 15px;
   padding: 1rem;
   text-align: center;
@@ -33,7 +33,7 @@ body {
 
 .bot-card:hover {
   transform: translateY(-4px);
-  border-color: #6a00ff;
+  border-color: #ff7e00;
 }
 
 .bot-card img {
@@ -48,9 +48,9 @@ body {
 }
 
 button {
-  background-color: #0057ff;
+  background-color: #ff7e00;
   border: none;
-  color: white;
+  color: #fffaf0;
   padding: 0.4rem 0.8rem;
   border-radius: 6px;
   cursor: pointer;
@@ -58,7 +58,7 @@ button {
 }
 
 button:hover {
-  background-color: #6a00ff;
+  background-color: #ff3d00;
 }
 
 button.danger {
@@ -66,5 +66,5 @@ button.danger {
 }
 
 button.danger:hover {
-  background-color: #ff4757;
+  background-color: #ff5c5c;
 }

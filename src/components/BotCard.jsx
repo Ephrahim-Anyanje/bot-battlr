@@ -7,9 +7,9 @@ function BotCard({ bot, onClick, onDischarge, isArmy }) {
       <h3>{bot.name}</h3>
       <p className="bot-class">{bot.bot_class}</p>
       <div className="stats">
-        <p>❤️ {bot.health}</p>
-        <p>⚔️ {bot.damage}</p>
-        <p>🛡️ {bot.armor}</p>
+        <p>Health{bot.health}</p>
+        <p>Damage{bot.damage}</p>
+        <p>Armor{bot.armor}</p>
       </div>
       <p className="catchphrase">"{bot.catchphrase}"</p>
       {isArmy && (
